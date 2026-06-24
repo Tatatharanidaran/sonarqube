@@ -1,0 +1,6 @@
+projectKey=sonarqube-devsecops-lab
+serverUrl=http://localhost:9000
+serverVersion=26.6.0.123539
+dashboardUrl=http://localhost:9000/dashboard?id=sonarqube-devsecops-lab
+ceTaskId=b88db03b-42ad-4484-84ca-8cd42419dbc4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=b88db03b-42ad-4484-84ca-8cd42419dbc4
